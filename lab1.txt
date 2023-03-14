@@ -1,0 +1,22 @@
+
+/**
+ *  1- create an interface (IProduct)(have)
+ *      -- id  ---> number
+ *      -- productName --> string
+ *      -- price --> number
+ *      -- description -- string
+ *      -- hasDiscount method return boolean
+ *      -- discount method return number --> if a product has a dicount -- 10%
+ *      -- show method --> return string
+ * ========================================================
+ *
+ *      -- create class Product implement IProduct
+ *      -- take an object from product ... show the product details
+ *================================================================
+ *
+ *
+ * showDetails(a=Iproduct[]){
+ * // make loop to show all products
+ * =====================
+ * }
+ */
